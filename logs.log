@@ -1,0 +1,9 @@
+{"level":"info","message":{"body":"{\"email\":\"gaurav.tripathi1010@codingninjas.com1\",\"password\":\"Codingninjas1212\"}","method":"POST","time":"1/5/2024, 12:05:25 pm","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"body":"{\"email\":\"gaurav.tripathi1010@codingninjas.com1\",\"password\":\"Codingninjas1212\"}","method":"POST","time":"1/5/2024, 12:05:34 pm","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"body":"{\"email\":\"gaurav.tripathi1010@codingninjas.com1\",\"password\":\"Codingninjas1212\"}","method":"POST","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"body":"{\"email\":\"gaurav.tripathi1010@codingninjas.com1\",\"password\":\"Codingninjas1212\"}","method":"POST","time":"1/5/2024, 12:06:40 pm","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"1/5/2024, 12:09:12 pm","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"body":"{}","method":"POST","time":"1/5/2024, 12:09:26 pm","url":"/api/posts/"},"service":"user-service"}
+{"level":"info","message":{"body":"{}","method":"POST","time":"1/5/2024, 4:27:28 pm","url":"/api/posts/"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"1/5/2024, 4:27:37 pm","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"1/5/2024, 4:27:50 pm","url":"/api/users/signin"},"service":"user-service"}
